@@ -88,12 +88,12 @@ Les données collectées sont stockées dans le fichier **annonces.json**. Pour 
 ```bash
 python -m final solution annonces.json
 ```
-Avec pour résultat, si on choisit la recherche 
-  destination : Toulouse, France  
-  date arrivée : 2023/02/10  
-  date départ : 2023/02/12  
-  nombre adulte(s) : 1  
-  nombre enfant(s) : 0  
+Avec pour résultat, si on choisit la recherche :  
+  - destination : Toulouse, France  
+  - date arrivée : 2023/02/10  
+  - date départ : 2023/02/12  
+  - nombre adulte(s) : 1  
+  - nombre enfant(s) : 0  
 ```bash
 Voici les annonces associées à votre recherche, attention, présence de sur-apprentissage :
 1. Nom : Chill & Work - Villa spa & piscine à Toulouse

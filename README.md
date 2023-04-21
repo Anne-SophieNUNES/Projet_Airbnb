@@ -30,7 +30,7 @@ Permet de paramétrer l'affichage du résultat obtenu par la résolution du prob
 # <span style="color:#f5b7b1">Utilisation de l'application</span>
 1. Pour utiliser l'application, il faut d'abord télécharger un **chromedriver** à l'aide de ce site [Lien](https://chromedriver.chromium.org/downloads).
 
-2. <span style="color:#e5d6f3">Ouvrir un terminal puis utiliser le package `pip` pour intaller `poetry`, `pyserde`, `typer`, `rich`, `pandas`, `numpy`, `scikit-learn`, `selenium` si cela n'est pas déjà fait :</span>
+2. <span style="color:#e5d6f3">Ouvrir un terminal puis utiliser le package `pip` pour installer `poetry`, `pyserde`, `typer`, `rich`, `pandas`, `numpy`, `scikit-learn`, `selenium` si cela n'est pas déjà fait :</span>
 ```bash
 pip install poetry
 pip install pyserde
